@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jperera2712
-- 👀 I’m interested in Languages, Programing, Music, Automatations.
+- 👀 I’m interested in Languages, Programing, Music, Automations.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Biotechnology.
 - 📫 How to reach me
